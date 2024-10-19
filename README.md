@@ -2,7 +2,7 @@
 
 ## Instrucciones de Compilación
 
-Para compilar el programa, asegúrate de tener GNU g++ instalado en tu sistema. A continuación, sigue estos pasos:
+Para compilar el programa, asegúrate de tener GNU g++ instalado en tu sistema Linux. A continuación, sigue estos pasos:
 
 1.- Navega hasta el directorio del proyecto donde se encuentra el archivo ```Makefile``` y el archivo ```carrera.cpp```.
 
